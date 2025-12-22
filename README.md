@@ -1,122 +1,40 @@
 # Mathias Javier Sonza Quiroz
 
-**Data Engineer · Analytics Engineer · Automation Specialist**  
+**Data Engineer · Analytics Engineer · Automation**  
 📍 Santiago, Chile  
-💻 Python | SQL | AWS | ETL | Data Automation | Analytics Engineering  
 
 ---
 
-## 👋 Sobre mí
+## About
 
-Soy **Data Engineer / Analytics Engineer** con fuerte enfoque en **automatización de procesos de datos, ETL pipelines y sistemas analíticos productivos**.  
-Tengo experiencia real en **entornos corporativos complejos**, integrando múltiples fuentes (SAP, Oracle, APIs, archivos Excel, portales internos) y transformándolas en **pipelines confiables, reproducibles y escalables**.
+Data Engineer with strong focus on **ETL pipelines, data automation and analytics engineering**.  
+Experience building **production-ready data workflows**, integrating multiple sources and replacing manual processes with scalable, automated solutions.
 
-Mi perfil combina:
-- Pensamiento de **ingeniería de datos**
-- Mentalidad de **automatización y optimización**
-- Alto estándar en **orden, documentación y mantenibilidad del código**
+I work with a strong engineering mindset: clean code, clear structure, and reliability first.
 
 ---
 
-## 🧠 Especialidades Técnicas
+## Tech Stack
 
-### 🔹 Data Engineering
-- Diseño e implementación de **ETL / ELT pipelines**
-- Arquitecturas **Bronze / Silver / Gold**
-- Modelado analítico y normalización de datos
-- Manejo de datos estructurados y semi-estructurados
-
-### 🔹 Automatización
-- Automatización end-to-end de flujos manuales
-- Descarga, validación y transformación automática de archivos
-- RPA con Selenium / Playwright
-- Manejo robusto de errores y reintentos
-
-### 🔹 Analytics Engineering
-- Transformaciones analíticas con enfoque en negocio
-- Tablas dimensionales y hechos
-- Preparación de datos para reporting y BI
+- **Languages:** Python, SQL  
+- **Cloud & Data:** AWS (S3, Lambda, Step Functions, Glue, Athena), Redshift, Oracle, PostgreSQL  
+- **Transform & Orchestration:** dbt, Step Functions  
+- **Automation:** Selenium, Playwright  
+- **Dev:** Docker, Poetry, Git, Linux, macOS  
 
 ---
 
-## 🛠️ Stack Tecnológico
+## What You’ll Find Here
 
-### Lenguajes
-- **Python** (ETL, automatización, scripting)
-- **SQL** (analítico y operativo)
-
-### Data & Cloud
-- **AWS**: S3, Lambda, Step Functions, Glue, Athena, RDS
-- **Amazon Redshift**
-- **Oracle**
-- **PostgreSQL**
-- **SQLite**
-
-### Orquestación & Transformación
-- Step Functions
-- dbt
-- Airflow (conceptual y comparativo)
-
-### Automatización & Scraping
-- Selenium
-- Playwright
-- BeautifulSoup
-- Requests
-
-### Dev & Tooling
-- Docker / Dev Containers
-- Poetry
-- Git & GitHub
-- VS Code
-- Linux / macOS / WSL
+- ETL & ELT pipelines  
+- Data automation projects  
+- Analytics-ready data models  
+- Reusable engineering templates  
 
 ---
 
-## 📦 Tipos de Proyectos en este GitHub
+## Contact
 
-En este repositorio encontrarás principalmente:
+- LinkedIn: https://www.linkedin.com/in/mathias-sonza/ 
+- Email: msonzaq@uft.edu 
 
-- **ETL pipelines** (batch y automatizados)
-- **Proyectos de Data Engineering**
-- **Automatizaciones empresariales**
-- **Arquitecturas de datos documentadas**
-- **Scripts productivos listos para ejecución**
-- **Plantillas reutilizables de ingeniería de datos**
-
-Todo el código sigue principios de:
-- Claridad
-- Separación de responsabilidades
-- Manejo explícito de errores
-- Documentación técnica
-
----
-
-## 🧩 Enfoque de Trabajo
-
-- Código **orientado a producción**
-- Prioridad en **estabilidad y trazabilidad**
-- Automatización antes que operación manual
-- Diseño pensando en **escalabilidad**
-- Documentación clara como parte del entregable
-
----
-
-## 📈 Experiencia Relevante
-
-- Automatización completa de procesos de Master Data
-- Integración de múltiples sistemas empresariales
-- Eliminación de trabajo manual repetitivo mediante pipelines
-- Desarrollo de herramientas internas reutilizables
-- Soporte de datos para múltiples plantas y países
-
----
-
-## 📫 Contacto
-
-- **LinkedIn**: https://www.linkedin.com/in/mathias-sonza/ 
-- **Email**: sonzamathiascode@gmail.com
-
----
-
-> Este GitHub refleja mi forma de trabajar:  
-> **ingeniería sólida, código limpio y soluciones reales a problemas reales.**
