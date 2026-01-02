@@ -1,40 +1,80 @@
 # Mathias Javier Sonza Quiroz
 
-**Data Engineer · Analytics Engineer · Automation**  
-📍 Santiago, Chile  
+Data Engineer · Analytics Engineer · Data Automation  
+📍 Santiago, Chile
 
 ---
 
-## About
+## 👋 About
 
-Data Engineer with strong focus on **ETL pipelines, data automation and analytics engineering**.  
-Experience building **production-ready data workflows**, integrating multiple sources and replacing manual processes with scalable, automated solutions.
+Data Engineer focused on building **production-ready data platforms**,  
+end-to-end **ETL / ELT pipelines**, and **automation-first analytics solutions**.
 
-I work with a strong engineering mindset: clean code, clear structure, and reliability first.
-
----
-
-## Tech Stack
-
-- **Languages:** Python, SQL  
-- **Cloud & Data:** AWS (S3, Lambda, Step Functions, Glue, Athena), Redshift, Oracle, PostgreSQL  
-- **Transform & Orchestration:** dbt, Step Functions  
-- **Automation:** Selenium, Playwright  
-- **Dev:** Docker, Poetry, Git, Linux, macOS  
+My work emphasizes:
+- Scalable architectures
+- Clean, maintainable code
+- Infrastructure as code
+- Reducing manual processes through automation
 
 ---
 
-## What You’ll Find Here
+## 🏗️ What you’ll find in this GitHub
 
-- ETL & ELT pipelines  
-- Data automation projects  
-- Analytics-ready data models  
-- Reusable engineering templates  
+This GitHub is a **working engineering space**, not a portfolio mockup.
+
+Here you’ll find:
+
+- **End-to-end data pipelines** (ingest → transform → analytics)
+- **Automation projects** replacing manual workflows
+- **Analytics-ready data models**
+- **Reusable data engineering templates**
+- **Cloud-oriented architectures** (AWS-focused)
+
+Many repositories are designed to be:
+- Client-agnostic
+- Reusable
+- Production-oriented
 
 ---
 
-## Contact
+## 🧰 Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/mathias-sonza/ 
-- Email: msonzaq@uft.edu 
+**Languages**
+- Python
+- SQL
+
+**Cloud & Data**
+- AWS (S3, Lambda, Step Functions, Glue, Athena)
+- Redshift
+- Oracle
+- PostgreSQL
+
+**Transformation & Orchestration**
+- dbt
+- AWS Step Functions
+
+**Automation**
+- Selenium
+- Playwright
+
+**Dev & Tooling**
+- Docker
+- Poetry
+- Git
+- Linux / macOS
+
+---
+
+## 📌 Notes
+
+- Some repositories are **templates** intended to be adapted per client.
+- Sensitive values are always abstracted via configuration and environment variables.
+- Documentation focuses on **how to replicate and extend solutions**.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mathias-sonza/
+- Email: msonzaq@uft.edu
 
