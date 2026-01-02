@@ -1,80 +1,43 @@
-# Mathias Javier Sonza Quiroz
+## 👋 Hi, I'm Mathias
 
-Data Engineer · Analytics Engineer · Data Automation  
-📍 Santiago, Chile
-
----
-
-## 👋 About
-
-Data Engineer focused on building **production-ready data platforms**,  
-end-to-end **ETL / ELT pipelines**, and **automation-first analytics solutions**.
-
-My work emphasizes:
-- Scalable architectures
-- Clean, maintainable code
-- Infrastructure as code
-- Reducing manual processes through automation
+Data Engineer focused on building production-ready data platforms,
+ETL / ELT pipelines, and automation-first analytics solutions.
 
 ---
 
-## 🏗️ What you’ll find in this GitHub
+### 🏗️ What I build
 
-This GitHub is a **working engineering space**, not a portfolio mockup.
-
-Here you’ll find:
-
-- **End-to-end data pipelines** (ingest → transform → analytics)
-- **Automation projects** replacing manual workflows
-- **Analytics-ready data models**
-- **Reusable data engineering templates**
-- **Cloud-oriented architectures** (AWS-focused)
-
-Many repositories are designed to be:
-- Client-agnostic
-- Reusable
-- Production-oriented
+- End-to-end ETL / ELT pipelines
+- Data platforms using Bronze / Silver / Gold architectures
+- Automation-first data workflows
+- Analytics-ready data models
+- Reusable and client-agnostic templates
 
 ---
 
-## 🧰 Tech Stack
+### 🧠 Engineering principles
 
-**Languages**
-- Python
-- SQL
+- Clean, modular and maintainable code
+- Infrastructure as Code
+- Configuration over hardcoding
+- Security by design
+- Production-first mindset
 
-**Cloud & Data**
-- AWS (S3, Lambda, Step Functions, Glue, Athena)
-- Redshift
-- Oracle
-- PostgreSQL
+---
 
-**Transformation & Orchestration**
+### 🧰 Tech stack (core)
+
+- Python · SQL
+- AWS (S3, Glue, Athena, Step Functions)
 - dbt
-- AWS Step Functions
-
-**Automation**
-- Selenium
-- Playwright
-
-**Dev & Tooling**
-- Docker
-- Poetry
-- Git
-- Linux / macOS
+- Docker · Git
 
 ---
 
-## 📌 Notes
+### 📌 How to navigate this GitHub
 
-- Some repositories are **templates** intended to be adapted per client.
-- Sensitive values are always abstracted via configuration and environment variables.
-- Documentation focuses on **how to replicate and extend solutions**.
+- Public repositories showcase reusable patterns and templates
+- Projects are anonymized and generalized from real production systems
+- Private repositories contain client-specific implementations
 
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/mathias-sonza/
-- Email: msonzaq@uft.edu
 
