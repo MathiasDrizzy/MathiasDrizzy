@@ -1,43 +1,17 @@
-## 👋 Hi, I'm Mathias
+## Hi, I'm Mathias
 
-Data Engineer focused on building production-ready data platforms,
-ETL / ELT pipelines, and automation-first analytics solutions.
+Data Engineer building production-ready data platforms and reusable ETL/ELT templates (Bronze/Silver/Gold), with an automation-first mindset.
 
----
+**What I build**
+- End-to-end ETL/ELT pipelines and orchestration
+- Lakehouse-style architectures (Bronze/Silver/Gold)
+- Analytics-ready models and reusable project templates
+- Production practices: modular code, IaC, config-driven, security by design
 
-### 🏗️ What I build
+**Core stack**
+Python · SQL · AWS (S3, Glue, Athena, Step Functions) · dbt · Docker · Git
 
-- End-to-end ETL / ELT pipelines
-- Data platforms using Bronze / Silver / Gold architectures
-- Automation-first data workflows
-- Analytics-ready data models
-- Reusable and client-agnostic templates
-
----
-
-### 🧠 Engineering principles
-
-- Clean, modular and maintainable code
-- Infrastructure as Code
-- Configuration over hardcoding
-- Security by design
-- Production-first mindset
-
----
-
-### 🧰 Tech stack (core)
-
-- Python · SQL
-- AWS (S3, Glue, Athena, Step Functions)
-- dbt
-- Docker · Git
-
----
-
-### 📌 How to navigate this GitHub
-
-- Public repositories showcase reusable patterns and templates
-- Projects are anonymized and generalized from real production systems
-- Private repositories contain client-specific implementations
-
-
+**How to navigate**
+- Public repos: reusable patterns/templates you can adapt
+- Projects are anonymized from real production systems
+- Private repos: client-specific implementations
