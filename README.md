@@ -1,17 +1,17 @@
-## Hi, I'm Mathias
+## 👋 Hi, I'm Mathias
 
-Data Engineer building production-ready data platforms and reusable ETL/ELT templates (Bronze/Silver/Gold), with an automation-first mindset.
+Data Engineer building production-ready data platforms and reusable ETL/ELT templates (Bronze/Silver/Gold). I focus on automation-first analytics and maintainable, secure-by-design delivery.
 
-**What I build**
+### 🚀 Focus
 - End-to-end ETL/ELT pipelines and orchestration
 - Lakehouse-style architectures (Bronze/Silver/Gold)
 - Analytics-ready models and reusable project templates
-- Production practices: modular code, IaC, config-driven, security by design
+- Production practices: modular code, IaC, config-driven workflows
 
-**Core stack**
+### 🧰 Stack (core)
 Python · SQL · AWS (S3, Glue, Athena, Step Functions) · dbt · Docker · Git
 
-**How to navigate**
-- Public repos: reusable patterns/templates you can adapt
-- Projects are anonymized from real production systems
-- Private repos: client-specific implementations
+### 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/mathias-sonza/
+- Email: msonzaq@uft.edu
+
