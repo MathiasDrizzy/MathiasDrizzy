@@ -12,7 +12,7 @@ I live in the terminal and I like tools that stay out of the way. Lately that me
 
 **[lazymark](https://github.com/MathiasDrizzy/lazymark)** is my first one: markdown notes, tasks and a Kanban board in your terminal.
 
-**Work:** Python, SQL, AWS (S3, Glue, Athena, Step Functions), dbt, Docker.
+**Work:** Python, SQL, AWS (S3, Glue, Athena, Step Functions), dbt, Docker.<br>
 **Play:** Go, Bubble Tea, Ghostty, Claude Code.
 
 [LinkedIn](https://www.linkedin.com/in/mathias-sonza/) · [Mathiasonza@gmail.com](mailto:Mathiasonza@gmail.com)
