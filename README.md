@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MathiasDrizzy/lazymark">
-    <img src="https://raw.githubusercontent.com/MathiasDrizzy/lazymark/main/assets/readme/main.gif" alt="lazymark, a terminal app for markdown notes, tasks and a Kanban board" width="720">
+    <img src="https://raw.githubusercontent.com/MathiasDrizzy/lazymark/v0.8.0/assets/readme/main.gif" alt="lazymark, a terminal app for markdown notes, tasks and a Kanban board" width="720">
   </a>
 </div>
 
